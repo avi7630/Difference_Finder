@@ -32,7 +32,7 @@ pip install opencv-python numpy Pillow cv2
 ```
 
 # Execution
-Clone this repository or download the find diff.py file.
+Clone this repository or download the find file [here](https://github.com/avi7630/Difference_Finder/blob/main/find%20diff.py) .
 
 Open your terminal or command prompt.
 
@@ -41,7 +41,10 @@ Navigate to the directory where you saved the file.
 Run the script after making sure the required libraries are installed
 
 # How to Use
-The application window will open.
+The application window will open and you will be promoting by 
+![this window](https://github.com/avi7630/Difference_Finder/blob/main/Screenshot%202025-08-21%20164916.png)
+
+
 
 Click the "Browse" button next to "Original Image Path" to select your first image.
 
@@ -50,9 +53,12 @@ Click the "Browse" button next to "Modified Image Path" to select the second ima
 Optionally, check or uncheck the "Apply Color Correction" and "Detect Color Differences" boxes.
 
 Click the "Run Comparison" button.
+(you may expect different results if the paths are switched)
 
 Watch the results
 
+![](https://github.com/avi7630/Difference_Finder/blob/main/Screenshot%202025-08-21%20165527.png)
+![](https://github.com/avi7630/Difference_Finder/blob/main/Screenshot%202025-08-21%20165553.png)
 Code Structure
 The script is divided into two main parts:
 
