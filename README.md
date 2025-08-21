@@ -3,7 +3,7 @@ This script is a desktop application that uses python and OpenCV to automaticall
 
 This project was born as a way to find defects in a PCB using Image Proccesing, therefor, it is present in some forms in the code
 
-Co-authored-by: Name <DanielKudarsky@users.noreply.github.com>
+Co-authored-by: [DanielKudarsky](https://github.com/DanielKudarsky)
 
 
 # Image Difference Finder
