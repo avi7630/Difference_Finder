@@ -313,8 +313,8 @@ class ImageComparisonApp(tk.Tk):
         self.mod_image_pil_full = self.mod_image_pil.copy()
 
         # Add image labels below the canvases
-        Label(main_orig_frame, text="Original Image", font=("Arial", 12)).pack(pady=(5, 0))
-        Label(main_mod_frame, text="Second Image", font=("Arial", 12)).pack(pady=(5, 0))
+        Label(main_orig_frame, text="Second Image", font=("Arial", 12)).pack(pady=(5, 0))
+        Label(main_mod_frame, text="Original Image", font=("Arial", 12)).pack(pady=(5, 0))
 
         # Configure canvases to be scrollable
         orig_canvas.config(scrollregion=orig_canvas.bbox("all"))
@@ -425,4 +425,5 @@ class ImageComparisonApp(tk.Tk):
 if __name__ == "__main__":
     app = ImageComparisonApp()
     app.mainloop()
+
 
