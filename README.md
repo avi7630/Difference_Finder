@@ -3,6 +3,9 @@ This script is a desktop application that uses python and OpenCV to automaticall
 
 This project was born as a way to find defects in a PCB using Image Proccesing, therefor, it is present in some forms in the code
 
+Co-authored-by: Name <DanielKudarsky@users.noreply.github.com>
+
+
 # Image Difference Finder
 
 This is a Python-based desktop application for finding and visualizing differences between two images. It is built using `OpenCV` for powerful image processing and `Tkinter` for a user-friendly graphical interface.
