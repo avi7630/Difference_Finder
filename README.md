@@ -1,5 +1,6 @@
 # Difference_Finder
 This script is a desktop application that uses python and OpenCV to automatically align and compare two images, highlighting differences for quality control or identifying modifications.
+This project was born as a way find defects in PCB using Image Proccesing therefor it is present in some forms in the code
 
 # Image Difference Finder
 
